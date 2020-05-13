@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/74ffc3b25997a7d69154ffb39fab6581/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/0c0f9f0634f7ab68959e71f34725db63/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/3819b92f0e4b63f3f1ee69152118e0eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/a5eb673f78a35f8b7fc4cf1ca520b426/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/096ca5802d96c989b51aa2e52313cad4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/02df2914e17be8d22968e64f1982995a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/ba7f76b67c61e0064b8068cbaf67c179/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/6692ec67b9e0c61222499ebb6d69d53d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/d6f7d07a4647247aa376bcbef219dbef/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/e21ee7ebfdb842fa2a1239d02ef528be/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/813d1ea86b97f821e2f4f3d88a136884/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/6e6756bc3504c4e42386e5133a4df98c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/9a72cb229b36363e895d332e7549c1db/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/5f89613de47dddd12ee143f4b56c5fc1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/84e1358ab5dfb5b073119c718f33c73a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/aa5a7bcf30323f54e4e06c5a46bcc7bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/76b80d285013571da4ee2e1ff935695c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/739862aea36af2e56d035104a789f204/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/e19988624cf0100d1f780808cfe8d9d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/d49a1af079cc28b1dba4b522ba98fb75/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/12c4957fab4bb120bd2c3d5a2d9c099a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/2179e917a9d4c651c2c643e3ec3e0fd9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/2c5e6a34103b724ade5331fa41b69814/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/799d8e67dafbaaca66a4a9c01270d417/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/b53043bd8a95e3b953c83682b036c835/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/30d372a993a705388d0853ec09307b0f/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/fa2ab23a73530d7ab245328f7fde6fdc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/4fd65ab643497292d46e60a5101a32b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/fd8201a3a35fff9858e4aca44a3e11d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/801ccfc20b71ab336e3e99bac4987e31/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/e977cee0931cd583c46cef26c4587378/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/06aa1dd488702930831ffece57ceb06b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/13d523ab79a55e51a82020710495fc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/9241ce45ab9e89b95d488b544ab3fc81/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/09af99378fe79dc56c1c4d9154b5c811/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/4d7e6707bf6a149c74916831b79d8c3b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/fa6adf68529b85f3267de6f8ad83f1bb/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:2:3-20
+		INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:2:3-20
+		INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/74ffc3b25997a7d69154ffb39fab6581/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/74ffc3b25997a7d69154ffb39fab6581/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/813d1ea86b97f821e2f4f3d88a136884/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/813d1ea86b97f821e2f4f3d88a136884/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/b53043bd8a95e3b953c83682b036c835/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/b53043bd8a95e3b953c83682b036c835/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/30d372a993a705388d0853ec09307b0f/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/30d372a993a705388d0853ec09307b0f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/b53043bd8a95e3b953c83682b036c835/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.cti.MainActivity
+ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/74ffc3b25997a7d69154ffb39fab6581/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/74ffc3b25997a7d69154ffb39fab6581/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/0c0f9f0634f7ab68959e71f34725db63/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/0c0f9f0634f7ab68959e71f34725db63/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/3819b92f0e4b63f3f1ee69152118e0eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/3819b92f0e4b63f3f1ee69152118e0eb/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/a5eb673f78a35f8b7fc4cf1ca520b426/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/a5eb673f78a35f8b7fc4cf1ca520b426/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/096ca5802d96c989b51aa2e52313cad4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/096ca5802d96c989b51aa2e52313cad4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/02df2914e17be8d22968e64f1982995a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/02df2914e17be8d22968e64f1982995a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/ba7f76b67c61e0064b8068cbaf67c179/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/ba7f76b67c61e0064b8068cbaf67c179/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/6692ec67b9e0c61222499ebb6d69d53d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/6692ec67b9e0c61222499ebb6d69d53d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/d6f7d07a4647247aa376bcbef219dbef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/d6f7d07a4647247aa376bcbef219dbef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/e21ee7ebfdb842fa2a1239d02ef528be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/e21ee7ebfdb842fa2a1239d02ef528be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/813d1ea86b97f821e2f4f3d88a136884/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/813d1ea86b97f821e2f4f3d88a136884/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/6e6756bc3504c4e42386e5133a4df98c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/6e6756bc3504c4e42386e5133a4df98c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/9a72cb229b36363e895d332e7549c1db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/9a72cb229b36363e895d332e7549c1db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/5f89613de47dddd12ee143f4b56c5fc1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/5f89613de47dddd12ee143f4b56c5fc1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/84e1358ab5dfb5b073119c718f33c73a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/84e1358ab5dfb5b073119c718f33c73a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/aa5a7bcf30323f54e4e06c5a46bcc7bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/aa5a7bcf30323f54e4e06c5a46bcc7bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/76b80d285013571da4ee2e1ff935695c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/76b80d285013571da4ee2e1ff935695c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/739862aea36af2e56d035104a789f204/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/739862aea36af2e56d035104a789f204/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/e19988624cf0100d1f780808cfe8d9d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/e19988624cf0100d1f780808cfe8d9d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/d49a1af079cc28b1dba4b522ba98fb75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/d49a1af079cc28b1dba4b522ba98fb75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/12c4957fab4bb120bd2c3d5a2d9c099a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/12c4957fab4bb120bd2c3d5a2d9c099a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/2179e917a9d4c651c2c643e3ec3e0fd9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/2179e917a9d4c651c2c643e3ec3e0fd9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/2c5e6a34103b724ade5331fa41b69814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/2c5e6a34103b724ade5331fa41b69814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/799d8e67dafbaaca66a4a9c01270d417/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/799d8e67dafbaaca66a4a9c01270d417/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/b53043bd8a95e3b953c83682b036c835/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/b53043bd8a95e3b953c83682b036c835/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/30d372a993a705388d0853ec09307b0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/30d372a993a705388d0853ec09307b0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/fa2ab23a73530d7ab245328f7fde6fdc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/fa2ab23a73530d7ab245328f7fde6fdc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/4fd65ab643497292d46e60a5101a32b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/4fd65ab643497292d46e60a5101a32b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/fd8201a3a35fff9858e4aca44a3e11d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/fd8201a3a35fff9858e4aca44a3e11d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/801ccfc20b71ab336e3e99bac4987e31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/801ccfc20b71ab336e3e99bac4987e31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/e977cee0931cd583c46cef26c4587378/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/e977cee0931cd583c46cef26c4587378/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/06aa1dd488702930831ffece57ceb06b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/06aa1dd488702930831ffece57ceb06b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/13d523ab79a55e51a82020710495fc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/13d523ab79a55e51a82020710495fc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/9241ce45ab9e89b95d488b544ab3fc81/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/9241ce45ab9e89b95d488b544ab3fc81/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/09af99378fe79dc56c1c4d9154b5c811/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/09af99378fe79dc56c1c4d9154b5c811/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/4d7e6707bf6a149c74916831b79d8c3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/4d7e6707bf6a149c74916831b79d8c3b/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/fa6adf68529b85f3267de6f8ad83f1bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/donaldhughes/.gradle/caches/transforms-2/files-2.1/fa6adf68529b85f3267de6f8ad83f1bb/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/src/debug/AndroidManifest.xml:5:22-75

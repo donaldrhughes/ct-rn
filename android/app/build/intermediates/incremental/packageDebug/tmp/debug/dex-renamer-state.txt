@@ -1,0 +1,4 @@
+#Thu Dec 12 19:25:54 PST 2019
+base.0=/Users/donaldhughes/Documents/Client/Projects/CleverTap/RN-SDK-Integration/CTI3/CTI/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
